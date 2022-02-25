@@ -1,0 +1,75 @@
+
+
+.H{
+    background-color: #A2D9C9 ;
+    
+}
+
+.B{
+    background-color: #FDCE9F;
+
+}
+.He{
+    background-color: #83B9D7;
+    
+   
+}
+
+.Li{
+    background-color: #8DBCAD;
+  
+}
+
+.Be{
+    background-color: #C6E2C0 ;
+   
+}
+
+.F{
+    background-color: #FEEDB9;
+   
+}
+
+.sc{
+    background-color: #84584B;
+    
+}
+
+.ai{
+    background-color: #FDCE9F ;
+   
+}
+
+.la{
+    background-color: #E68A95 ;
+    
+}
+
+.ac{
+    background-color: #C5688E ;
+   
+    
+}
+
+.bb{
+    width: 100%;
+    height: 50%;
+}
+
+.des{
+    width: 75%;
+    height: 50%;
+    margin-left: 15% ;
+    margin-top: 30px;
+}
+td{
+    text-align: center;
+    font-size: 0.9vw;
+}
+
+.tab{
+ text-align: center;
+}
+img{
+    border-radius: 50%;
+}
